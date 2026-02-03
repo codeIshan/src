@@ -1,0 +1,10 @@
+/peanut_butter_falcon_quote_publisher_node:
+  ros__parameters:
+    period: 0.25
+    philosopher_name: Tyler
+    quote: You got a good-guy heart. You can't do shit about it, that's just who you
+      are. You're a hero.
+    start_type_description_service: true
+    topic_name: truly_inspirational_quote
+    use_sim_time: false
+
